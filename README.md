@@ -147,9 +147,9 @@ Contributed design work in a remote internship setting, applying visual design p
 
 **Google (via Coursera)**
 
-![Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity%20Professional%20Certificate-0F172A?style=flat-square&logo=google&logoColor=white)
-![Data Analytics](https://img.shields.io/badge/Google-Data%20Analytics%20Professional%20Certificate-06B6D4?style=flat-square&logo=google&logoColor=white)
-![Project Management](https://img.shields.io/badge/Google-Project%20Management%20Professional%20Certificate-3B82F6?style=flat-square&logo=google&logoColor=white)
+[![Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity%20Professional%20Certificate-0F172A?style=flat-square&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/UMITXUZBF3F6)
+[![Data Analytics](https://img.shields.io/badge/Google-Data%20Analytics%20Professional%20Certificate-06B6D4?style=flat-square&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/1L1KLNUVXBD4)
+[![Project Management](https://img.shields.io/badge/Google-Project%20Management%20Professional%20Certificate-3B82F6?style=flat-square&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/VXESV33REOB7)
 
 ---
 
