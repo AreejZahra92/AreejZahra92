@@ -29,17 +29,17 @@
 
 ---
 
-## About Me
+## 👩‍💻 About Me
 
-I'm a 3rd-year Computer Science student at **Sukkur IBA University**, currently building a foundation across **cybersecurity, data analytics, and software development**. My work combines hands-on security fundamentals (encryption, password auditing) with structured coursework in data structures, OOP, and web engineering — backed by a project-management mindset from both internship and certification experience.
+I'm a 3rd-year Computer Science student at **Sukkur IBA University** 🎓, currently building a foundation across **cybersecurity 🔐, data analytics 📊, and software development 💻**. My work combines hands-on security fundamentals (encryption, password auditing) with structured coursework in data structures, OOP, and web engineering — backed by a project-management mindset ⚙️ from both internship and certification experience.
 
-I care about writing clean, understandable code and about actually knowing *why* something works, not just that it does. Right now that means strengthening my Python and Java fundamentals while going deeper into applied cybersecurity concepts.
+I care about writing clean, understandable code ✨ and about actually knowing *why* something works, not just that it does. Right now that means strengthening my Python 🐍 and Java ☕ fundamentals while going deeper into applied cybersecurity concepts 🛡️.
 
-**Open To:**
-- Internship opportunities in Software Engineering, Cybersecurity, or Data Analytics
-- Collaborative student/open-source projects
-- Mentorship — both giving and receiving
-- Freelance graphic design work
+**💼 Open To:**
+- 💼 Internship opportunities in Software Engineering, Cybersecurity, or Data Analytics
+- 🤝 Collaborative student/open-source projects
+- 💡 Mentorship — both giving and receiving
+- 🎨 Freelance graphic design work
 
 ---
 
