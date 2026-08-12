@@ -7,13 +7,12 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=BS+Computer+Science+%40+Sukkur+IBA;Frontend+AI+Engineer+%40+FlyRank;Building+with+Python+%26+Java;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=BS+Computer+Science+%40+Sukkur+IBA;Frontend+AI+Engineer+%40+FlyRank;Building+with+Python+%26+Java;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 ![Student](https://img.shields.io/badge/Status-3rd%20Year%20CS%20Student-0F172A?style=for-the-badge&logo=googlescholar&logoColor=white)
-![GPA](https://img.shields.io/badge/GPA-3.74%2F4.00-06B6D4?style=for-the-badge&logo=bookstack&logoColor=white)
 ![Location](https://img.shields.io/badge/Based%20in-Sukkur%2C%20Pakistan-3B82F6?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br/>
@@ -139,7 +138,7 @@ Contributed design work in a remote internship setting, applying visual design p
 
 | Recognition | Details |
 |---|---|
-| 🎓 GPA | 3.74 / 4.00 — BS Computer Science, Sukkur IBA University |
+| 🎓 Education | BS Computer Science, Sukkur IBA University |
 | 📜 Triple Google Certification | Cybersecurity, Data Analytics & Project Management (Coursera) |
 | 💼 Experience | Frontend AI Engineering & Cybersecurity Internships |
 
@@ -152,13 +151,13 @@ Contributed design work in a remote internship setting, applying visual design p
 **Google (via Coursera)**
 
 <a href="https://www.coursera.org/account/accomplishments/specialization/UMITXUZBF3F6" target="_blank">
-  <img src="https://img.shields.io/badge/Google-Cybersecurity%20Professional%20Certificate-0F172A?style=flat-square&logo=google&logoColor=white" alt="Cybersecurity Certificate" />
+  <img src="https://img.shields.io/badge/Google-Cybersecurity%20Professional%20Certificate-0F172A?style=flat-square&logo=google&logoColor=white" alt="Cybersecurity Certificate" />
 </a>
 <a href="https://www.coursera.org/account/accomplishments/specialization/1L1KLNUVXBD4" target="_blank">
-  <img src="https://img.shields.io/badge/Google-Data%20Analytics%20Professional%20Certificate-06B6D4?style=flat-square&logo=google&logoColor=white" alt="Data Analytics Certificate" />
+  <img src="https://img.shields.io/badge/Google-Data%20Analytics%20Professional%20Certificate-06B6D4?style=flat-square&logo=google&logoColor=white" alt="Data Analytics Certificate" />
 </a>
 <a href="https://www.coursera.org/account/accomplishments/specialization/VXESV33REOB7" target="_blank">
-  <img src="https://img.shields.io/badge/Google-Project%20Management%20Professional%20Certificate-3B82F6?style=flat-square&logo=google&logoColor=white" alt="Project Management Certificate" />
+  <img src="https://img.shields.io/badge/Google-Project%20Management%20Professional%20Certificate-3B82F6?style=flat-square&logo=google&logoColor=white" alt="Project Management Certificate" />
 </a>
 
 ---
@@ -187,28 +186,28 @@ Contributed design work in a remote internship setting, applying visual design p
 
 ```yaml
 Learning:
-  - Advanced Cybersecurity Concepts
-  - Java (Object-Oriented Design Patterns)
-  - Data Structures & Algorithms (deepening)
+  - Advanced Cybersecurity Concepts
+  - Java (Object-Oriented Design Patterns)
+  - Data Structures & Algorithms (deepening)
 
 Building:
-  - Frontend AI applications at FlyRank
-  - Python-based security utility scripts
-  - Personal portfolio projects
+  - Frontend AI applications at FlyRank
+  - Python-based security utility scripts
+  - Personal portfolio projects
 
 Exploring:
-  - Web Engineering fundamentals
-  - Mobile Application Development
+  - Web Engineering fundamentals
+  - Mobile Application Development
 
 Open To:
-  - Internships (SWE / Cybersecurity / Data Analytics)
-  - Collaborative student projects
-  - Freelance graphic design work
+  - Internships (SWE / Cybersecurity / Data Analytics)
+  - Collaborative student projects
+  - Freelance graphic design work
 
 
 🌐 Personal Portfolio Website
 Explore my full interactive portfolio, featured projects, and live demos:
-👉 https://personal-portfolio-website-1jvq.vercel.app/
+👉 [https://personal-portfolio-website-1jvq.vercel.app/](https://personal-portfolio-website-1jvq.vercel.app/)
 
 📬 Connect
 "Still learning, still building — one line of code at a time."
