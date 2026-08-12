@@ -204,10 +204,9 @@ Open To:
   - Collaborative student projects
   - Freelance graphic design work
 
-
 🌐 Personal Portfolio Website
 Explore my full interactive portfolio, featured projects, and live demos:
-👉 [https://personal-portfolio-website-1jvq.vercel.app/](https://personal-portfolio-website-1jvq.vercel.app/)
+👉 https://personal-portfolio-website-1jvq.vercel.app/
 
 📬 Connect
 "Still learning, still building — one line of code at a time."
